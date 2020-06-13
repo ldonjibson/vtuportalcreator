@@ -1,0 +1,40 @@
+@font-face {
+						font-family: 'Arial-BlackItalic';
+						src: url('arialblackitalic.eot');
+						src: url('arialblackitalicd41d.eot?#iefix') format('embedded-opentype'),
+								 url('arialblackitalic.woff') format('woff'),
+								 url('arialblackitalic.ttf') format('truetype'),
+								 url('arialblackitalic.svg#arialblackitalic') format('svg');
+						font-weight: normal;
+						font-style: normal;
+				}
+@font-face {
+						font-family: 'ArialNarrow-Bold';
+						src: url('arialnarrowbold.eot');
+						src: url('arialnarrowboldd41d.eot?#iefix') format('embedded-opentype'),
+								 url('arialnarrowbold.woff') format('woff'),
+								 url('arialnarrowbold.ttf') format('truetype'),
+								 url('arialnarrowbold.svg#arialnarrowbold') format('svg');
+						font-weight: normal;
+						font-style: normal;
+				}
+@font-face {
+						font-family: 'Arial-Black';
+						src: url('arialblack.eot');
+						src: url('arialblackd41d.eot?#iefix') format('embedded-opentype'),
+								 url('arialblack.woff') format('woff'),
+								 url('arialblack.ttf') format('truetype'),
+								 url('arialblack.svg#arialblack') format('svg');
+						font-weight: normal;
+						font-style: normal;
+				}
+@font-face {
+						font-family: 'ArialNarrow';
+						src: url('arialn.eot');
+						src: url('arialnd41d.eot?#iefix') format('embedded-opentype'),
+								 url('arialn.woff') format('woff'),
+								 url('arialn.ttf') format('truetype'),
+								 url('arialn.svg#arialn') format('svg');
+						font-weight: normal;
+						font-style: normal;
+				}
